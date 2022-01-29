@@ -1,0 +1,19 @@
+{
+  "name": "obfidx",
+  "version": "1.0.0",
+  "description": "Obfuscator for 32 bit integer.",
+  "files": [
+    "dist/**/*"
+  ],
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "zbryikt",
+  "license": "MIT",
+  "devDependencies": {
+    "livescript": "^1.6.0",
+    "uglify-js": "^3.13.1"
+  }
+}
