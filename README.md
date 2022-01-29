@@ -1,6 +1,6 @@
 # obfidx
 
-Obfuscator for 32 bit integer.
+Obfuscator for 32 bit integer to a base-51 string.
 
 Based on a sample script from [Pseudo encrypt - Postgresql wiki](https://wiki.postgresql.org/wiki/Pseudo_encrypt), by Daniel Vérité and Jaka Jancar. The permutation property of this algorithm is a consequence of the function being a Feistel network; see [Feistel cipher](https://en.wikipedia.org/wiki/Feistel_cipher).
 
